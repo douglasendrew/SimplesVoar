@@ -1,0 +1,6 @@
+name: SimplesVoar
+version: 1.0-SNAPSHOT
+main: me.simplesdeveloper.SimplesVoar
+
+commands:
+  voar:
